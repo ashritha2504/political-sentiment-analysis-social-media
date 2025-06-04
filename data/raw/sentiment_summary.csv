@@ -1,0 +1,13 @@
+politician,sentiment_category,count,avg_score
+Chuck Schumer,negative,12,0.08333333333333333
+Chuck Schumer,neutral,10,1.4
+Chuck Schumer,positive,8,1.75
+Donald Trump,negative,1433,-0.1751570132588974
+Donald Trump,neutral,1743,0.1193344807802639
+Donald Trump,positive,1425,0.04912280701754387
+Mike Johnson,negative,183,0.546448087431694
+Mike Johnson,neutral,166,0.23493975903614459
+Mike Johnson,positive,145,0.6275862068965518
+President Trump,negative,541,0.21256931608133087
+President Trump,neutral,676,0.08579881656804733
+President Trump,positive,541,0.1645101663585952
